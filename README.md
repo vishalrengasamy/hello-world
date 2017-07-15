@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hello there
+Python & JavaScript <3
